@@ -2,7 +2,6 @@
 
 A simple calculator app built to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
----
 
 ## ✨ Features
 - ➕ Addition
@@ -12,14 +11,12 @@ A simple calculator app built to perform basic arithmetic operations like additi
 - 🎨 Clean and simple UI
 - 📱 Responsive design
 
----
 
 ## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
 
----
 
 ## 🚀 Getting Started
 
